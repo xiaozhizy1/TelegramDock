@@ -1,0 +1,19 @@
+
+services:
+  telegramdock:
+    build: .
+    image: xiaozhizy/telegramdock:latest
+    container_name: telegramdock
+    restart: unless-stopped
+    volumes:
+      - ./config:/app/config
+    networks:
+      - bot-network
+
+networks:
+  bot-network:
+    driver: bridge
+
+volumes:
+  bot-config:
+    driver: local
