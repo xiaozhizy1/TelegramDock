@@ -147,7 +147,7 @@ forward_failed = ❌ 消息转发失败，请稍后重试或联系技术支持�
 ### 📞 联系我们
 
 - 📧 **邮箱**：xiaozhizy1@gmail.com
-- 💬 **Telegram**：[@your_telegram](https://t.me/TRS1_bot)
+- 💬 **Telegram**：[@TRS_bot](https://t.me/TRS1_bot)
 - 🐙 **GitHub**：[项目地址](https://github.com/xiaozhizy1/TelegramDock)
 
 ---
@@ -157,3 +157,4 @@ forward_failed = ❌ 消息转发失败，请稍后重试或联系技术支持�
 ## 许可证
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
+
