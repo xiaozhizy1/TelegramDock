@@ -31,7 +31,7 @@
 ### docker-compose.yml
 ```bash
 services:
-  telegram-bot:
+  telegramdock:
     build: .
     image: xiaozhizy/telegramdock:latest
     container_name: telegramdock
@@ -136,18 +136,6 @@ forward_failed = ❌ 消息转发失败，请稍后重试或联系技术支持�
 
 如果这个项目对您有帮助，欢迎支持我们的开发工作！
 
-### 💰 打赏支持
-
-您的支持是我们持续改进的动力：
-
-<div align="center">
-
-| 支付方式 | 二维码 | 说明 |
-|---------|--------|------|
-| 💰 **微信支付** | ![微信支付](https://via.placeholder.com/200x200/00C853/FFFFFF?text=WeChat+Pay) | 扫码支持开发 |
-| 💳 **支付宝** | ![支付宝](https://via.placeholder.com/200x200/1976D2/FFFFFF?text=Alipay) | 扫码支持开发 |
-
-</div>
 
 ### 🌟 其他支持方式
 
